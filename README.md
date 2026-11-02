@@ -845,26 +845,28 @@ Enter your choice: 0
 Exiting...
 
 =============EX 12============
---- Library Management System ---
+===== LIBRARY MANAGEMENT SYSTEM =====
+
 1. Add Book
 2. Display Books
 3. Search Book
-4. Exit
+4. Issue Book
+5. Return Book
+6. Exit
 
-Enter your choice: 1
+Enter Your Choice: 1
 
 Enter Book ID: 101
-Enter Book Name: C Programming
-Enter Author Name: Dennis Ritchie
+Enter Book Name: Java Programming
+Enter Author Name: James
 
-Book added successfully!
+Book Added Successfully!
 
-Enter your choice: 2
+Enter Your Choice: 2
 
-Book Details:
-ID: 101
-Name: C Programming
-Author: Dennis Ritchie
+--- BOOK DETAILS ---
 
-Enter your choice: 4
-Thank you!
+Book ID: 101
+Book Name: Java Programming
+Author: James
+Status: Available
